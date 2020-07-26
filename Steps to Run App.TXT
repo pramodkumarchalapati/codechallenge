@@ -1,0 +1,19 @@
+To Fetch API information, use the below command to start the local server 
+
+Make sure server runs on localhost:3000 - I have configured the localhost at 3000
+
+npx json-server --watch src/db.json
+
+Application Rules:
+
+Please Install Node Modules
+
+npm start
+
+Enter number of countries to be passed to child components to render
+
+ADD/Select button is optional to select, to fetch results for Standard Dropdown.
+
+Provided Apply Filter Button to show the different dropdowns such as standard dropdown / Create & Select Functionality dropdown
+
+For Create & Select Dropdown, select ADD/Select option and click on Apply Filter
